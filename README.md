@@ -7,8 +7,8 @@
 
 # Not: Program henüz deneme sürümündedir. İmzalanmadığı için Windows Güvenlik hatası verebilir!
 
-## View Dashboard:
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/9f5be003-398e-4c57-8957-be2977f74656" />
+## Yeni View Dashboard:
+<img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/4199b9d4-2985-44a2-8550-84d187c9288d" />
 
 ## PLC ekleme-görüntüleme ekranı:
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6061f7ae-ad24-440a-8352-569c5c5cfdfc" />

@@ -1,0 +1,23 @@
+{
+    "plcs": [
+        {
+            "name": "Deneme Cihaz1",
+            "ip": "192.168.1.1",
+            "plant": "JAW",
+            "rack": 0,
+            "slot": 1,
+            "active": true,
+            "id": 1,
+            "tags": [
+                {
+                    "name": "Motor1_Hiz",
+                    "db_number": 1,
+                    "offset": 2,
+                    "data_type": "Bool",
+                    "id": 1
+                }
+            ],
+            "port": 102
+        }
+    ]
+}
